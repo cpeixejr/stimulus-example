@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicação exemplo do uso do Stimulus, uma biblioteca Javascript que faz parte da biblioteca Hotwire do Ruby on Rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Aprenda Stimulus 2025](https://youtu.be/M5pMwd9r7Bs)
